@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7f657d1-f860-478f-ae3d-937e21fecc95" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RELEASE_NOTES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Last.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Edit/Form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Edit/Tab/Form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Edit/Tab/Options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Edit/Tab/Related.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Edit/Tabs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Blog/Grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Cat/Edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Cat/Edit/Form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Cat/Grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Comment/Edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Comment/Edit/Form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Manage/Comment/Grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Menu/Sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Product/Toolbar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Rss/List.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Block/Tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Controller/Router.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Substring.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Helper/Toolbar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Dateformat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Layouts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Blog/Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Cat/Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Comment/Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Post/Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Related.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Related/Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Mysql4/Tag/Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Observer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Related.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Route.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Sitemap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Sorter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Status.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/System/Config/Source/Categories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/System/Config/Source/Columns.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Model/Tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/Test/Helper/Substring.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/CatController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/IndexController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/Manage/BlogController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/Manage/CatController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/Manage/CommentController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/PostController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/controllers/RssController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/etc/adminhtml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/etc/widget.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-install-1.0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-0.1.0-0.2.5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-0.2.5-0.3.5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-0.3.5-0.4.0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-0.4.0-1.0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-1.0.11-1.0.12.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-1.0.12-1.0.14.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-1.0.15-1.0.16.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AW/Blog/sql/blog_setup/mysql4-upgrade-1.0.16-1.1.1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Block/Share.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Model/Observer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Model/Source/Buttons.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Model/Source/Languages.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Model/Source/Menuhover.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Model/Source/Menuversions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/Model/Source/Uihover.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/AddThis/SharingTool/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Block/Sales/Order/Grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Export/Abstractcsv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Export/Csv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Export/Highrise.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Export/Sage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Export/Status.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Observer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/Model/Options/Options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/controllers/Sales/Order/ExportController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/community/Bluejalappeno/Orderexport/versions_supported.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Block/Jsinit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Block/Notification/Window.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Block/System/Config/Form/Fieldset/Awall/Extensions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Block/System/Config/Form/Fieldset/Awall/Store.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Helper/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Helper/Versions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Model/Feed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Model/Feed/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Model/Feed/Extensions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Model/Feed/Updates.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/Model/Source/Updates/Type.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/etc/adminhtml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/AW/All/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/All/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/All/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/All/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/Catalog/Block/Navigation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/Catalog/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/Catalog/sql/coffeesh0p_catalog_setup/mysql4-install-0.1.0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Coffeesh0p/Catalog/sql/coffeesh0p_catalog_setup/mysql4-upgrade-0.1.0-0.1.1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Indianic/Reviewexport/Model/Convert/Adapter/Reviewimport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Indianic/Reviewexport/Model/Convert/Parser/Reviewexport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Indianic/Reviewexport/Model/Reviewexport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Indianic/Reviewexport/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Brands/Block/Brands.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Brands/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Brands/etc/adminhtml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Brands/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Brands/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/Block/Product/View/Lightboxconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/Block/Product/View/Media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/Model/System/Config/Source/Position.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/etc/adminhtml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/CloudZoom/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Adminhtml/Button/Import/Cms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Adminhtml/System/Config/Form/Field/Color (minicolor).php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Adminhtml/System/Config/Form/Field/Color.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Adminhtml/System/Config/Form/Field/Tex.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Adminhtml/System/Config/Form/Fieldset/Cssgen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Navigation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Block/Product/List/Featured.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Helper/Labels.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Helper/Responsive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Helper/Template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/Cssgen/Generate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/Import/Cms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Backend/Color.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Backend/Productpage/Imgcolunits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Category/Grid/Columncount.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Css/Background/Attachment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Css/Background/Positionx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Css/Background/Positiony.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Css/Background/Repeat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Design/Font/Family/Primary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Design/Font/Size/Basic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Design/Tex/Names.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Element/Display.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Jquery/Easing.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Layout/Screen/Width/Widecustom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Nav/Columncount.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/Model/System/Config/Source/Replacewithblock.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/controllers/Adminhtml/CssgenController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/controllers/Adminhtml/ImportController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/controllers/IndexController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/etc/adminhtml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/etc/import/blocks.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/etc/import/pages.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/Ultimo/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/Block/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/Block/Slideshow.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/Model/Source/Easing.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/Model/Source/Fx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/etc/adminhtml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Infortis/UltraSlideshow/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Mage/Catalog/Model/Convert/Adapter/Categoryimport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Mage/Catalog/Model/Convert/Parser/Categoryexport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Mage/Catalog/Model/Convert/Parser/fortransfer with name field/Categoryexport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/Mage/Page/Block/Html/Breadcrumbs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Block/Standard/AdminRedirect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Block/Standard/Form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Block/Standard/Multiredirect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Block/Standard/Redirect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Block/Standard/Success.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Helper/Data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Model/Source/SettleDueDate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Model/Source/SettleStatus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Model/Source/StandardAction.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Model/Standard.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/Model/Type/Multishipping.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/controllers/AdminController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/controllers/CreateController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/controllers/MultishippingController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/controllers/StandardController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/etc/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/etc/system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/MagentoPPages.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/AbstractAPI.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/AbstractPaymentPages.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/AbstractSTAPI.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/AbstractSTPP.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/AbstractSTPPHelper.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/AbstractWebServices.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/STPPLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/STPPXml.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/code/local/SecureTrading/PPages/lib/securetrading_stpp/logs/log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/layout/aw_blog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/layout/infortis_brands.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/layout/infortis_cloudzoom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/layout/infortis_ultraslideshow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/layout/local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/layout/sharingtool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/locale/en_US/translate.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/PPages/standard/form.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/addthis/sharingtool/share.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/blog.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/bookmark.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/cat.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/cms.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/copyright.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/line_tags.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/menu.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/post.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/tags.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/aw_blog/widget_post.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/bundle/catalog/product/view/type/bundle.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/list.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/list/related_tabbed.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/list/toolbar.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/list/upsell.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/list_featured_slider.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/new.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/view.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/view/addtocart.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/view/tabs.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/view/type/default.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/catalog/product/view/type/grouped.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/checkout/cart.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/checkout/cart/crosssell.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/checkout/cart/item/default.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/checkout/cart/mini.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/checkout/onepage/review/item.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/customer/form/login.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/directory/currency.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/downloadable/catalog/product/type.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/infortis/brands/brands.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/infortis/cloudzoom/product/view/lightbox_config.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/infortis/cloudzoom/product/view/media.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/infortis/ultraslideshow/config.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/infortis/ultraslideshow/slideshow.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/newsletter/subscribe.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/1column.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/2columns-left.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/2columns-right.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/3columns.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/breadcrumbs.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/footer.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/footer_additional.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/head.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/header.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/pager.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/html/topmenu.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/page/switch/languages.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/persistent/checkout/onepage/login.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/persistent/customer/form/login.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/review/helper/summary_nolinks.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/review/helper/summary_short.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/review/product/view/list.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/sales/order/history.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/sales/order/recent.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/wishlist/item/column/image.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/ultimo/default/template/wishlist/sidebar.phtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/AW_All.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/AW_Blog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/AddThis_SharingTool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Bluejalappeno_Orderexport.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Coffeesh0p_All.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Coffeesh0p_Catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Coffeesh0p_Customcatattrib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Ebizmarts_AbandonedCart.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Ebizmarts_MageMonkey.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Ebizmarts_Mandrill.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Indianic_Review.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Infortis_Brands.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Infortis_CloudZoom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Infortis_Ultimo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Infortis_UltraSlideshow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_Api2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_Authorizenet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_Captcha.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_Connect.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_CurrencySymbol.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_ImportExport.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_Oauth.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_PageCache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_Persistent.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Mage_XmlConnect.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/SecureTrading_PPages.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/etc/modules/Webshopapps_Matrixrate.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/aw_all/aw_all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/jquery-functionality.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/jquery-noconflict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/cloud-zoom.1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/jquery.colorbox-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/mcolorpicker/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/mcolorpicker/images/color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/mcolorpicker/images/grid.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/mcolorpicker/images/meta100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/mcolorpicker/images/picker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/mcolorpicker/mcolorpicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/minicolors/images/colors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/minicolors/images/trigger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/minicolors/jquery.minicolors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/minicolors/jquery.minicolors.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/infortis/jquery/plugins/tabs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jscolor/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jscolor/cross.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jscolor/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jscolor/hs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jscolor/hv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jscolor/jscolor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Bz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Gz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Helper/File.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Helper/File/Bz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Helper/File/Gz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Interface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Archive/Tar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Autoload/Simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Archive/Tar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Exception/CantLoadSnapshot.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Exception/FtpConnectionFailed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Exception/FtpValidationFailed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Exception/NotEnoughFreeSpace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Exception/NotEnoughPermissions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem/Helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem/Iterator/File.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem/Iterator/Filter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem/Rollback/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem/Rollback/Fs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Filesystem/Rollback/Ftp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Interface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Nomedia.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Backup/Snapshot.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Channel/Generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Channel/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Channel/VO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Channels.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Channels_Header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Config_Header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Install_Header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Package.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Package_Header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Registry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Registry_Header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Remote.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Command/Remote_Header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Converter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Frontend.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Frontend/CLI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Ftp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Loader/Ftp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/Extension.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/Hotfix.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/Maintainer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/Reader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/Target.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/VO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Package/Writer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Packager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Channel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Channel/Abstract.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Channel/Commercial.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Channel/Community.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Channel/Core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Repository/Local.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Rest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Singleconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Structures/Graph.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Structures/Node.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Connect/Validator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/DB/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/DB/Mysqli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/HTTP/Client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/HTTP/Client/Curl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/HTTP/Client/Socket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/HTTP/IClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/System/Args.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/System/Dirs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/System/Ftp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Xml/Generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mage/Xml/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Mandrill/API.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/AES.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/DES.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/Hash.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/RC4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/RSA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/Random.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/Rijndael.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Crypt/TripleDES.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Math/BigInteger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Net/SFTP.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Net/SSH1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/Net/SSH2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/PHP/Compat/Function/array_fill.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/PHP/Compat/Function/bcpowmod.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/phpseclib/PHP/Compat/Function/str_split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/recaptcha/recaptchalib-aw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/ReleaseNotes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/cli/magmi.cli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/CategoryImporter.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/ImageAttributeItemProcessor.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/Magmi_CSVDataSource.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/Magmi_ReindexingPlugin.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/magmi.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/magmi.ini.default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/plugins.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/test/CategoryImporter.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/test/ImageAttributeItemProcessor.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/test/Magmi_CSVDataSource.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/test/Magmi_ReindexingPlugin.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/test/plugins.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/engines/magmi_productimportengine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/engines/magmi_utilityengine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/dbhelper.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/fshelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_csvreader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_defs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_engine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_loggers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_mixin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_pluginhelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_postinstall.php.1370434687" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_statemanager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_version.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/properties.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/integration/inc/magmi_datapump.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/integration/inc/magmi_datapumpdatasource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/integration/inc/productimport_datapump.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/integration/inc/pumpfactory.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/integration/samples/sample.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/integration/samples/sample2_configurables.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/__magento/magmi_magentodatasource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/__magento/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/csvds_filelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/magmi_csvdatasource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/mysql_options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/other_options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/sql_datasource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/emailreport/emailreport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/emailreport/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/importurl/importurl_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/importurl/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/optimizer/magmi_optimizer_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/reindex/magmi_reindexing_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/reindex/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/columnmapper/000_columnmapper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/columnmapper/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/configurables/magmi_configurableprocessor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/configurables/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/defaultvalues/00_default_values.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/defaultvalues/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/02_genericmapper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/__common__.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/options_container.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/page_layout.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/status.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/visibility.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/grouped/alpine_groupedprocessor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/grouped/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/importlimiter/01_importlimiter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/importlimiter/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/productdeleter/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/productdeleter/productdeleter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/related/related_products.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/skufinder/001_skufinder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/skufinder/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/upcross_sell/crossupsell_products.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/general/remoteagent/008_magmi_remoteagent_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/general/remoteagent/magmi_remoteagent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/general/remoteagent/magmi_remoteagent_proxy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/general/remoteagent/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/general/remoteagent/raproxy_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/categories/categoryimport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/categories/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/customoptions/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/customoptions/pablo_customoptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/imageprocessor/imageitattributeemprocessor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/imageprocessor/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/itemindexer/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/itemindexer/otfindexer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/tags/tagimporter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/tierprice/tierpriceprocessor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/valuereplacer/03_valuereplacer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/valuereplacer/helper/remapper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/valuereplacer/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/valuetrim/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/valuetrim/valuetrimmer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/extra/obsolete.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_datasource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_default_options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_defaultattributehandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_generalimport_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_item_processor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_utility_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/cleaneav/cleaneav.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/cleaneav/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/cleaneav/stats_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/clearproducts/clearproduct.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/customsql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/filevalues.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/pagelayout.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/pagelayout.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/removeallorphans.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/removeallorphans.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/removecats.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/removecats.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/removeorphans.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/removeorphans.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/resetimages.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/resetimages.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/resetstock.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/resetstock.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/testorphans.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/customsql/prequests/testorphans.sql.desc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/massopt_remap/csvds_filelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/massopt_remap/mass_selectremap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/massopt_remap/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/massopt_translate/csvds_filelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/massopt_translate/massattr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/plugins/utilities/massopt_translate/options_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/state/magmistate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/state/progress.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/state/trace.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/ajax_gettime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/ajax_pluginconf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/clearcatalog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/css/960.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/css/csshover3.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/css/fieldhelp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/css/magmi.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/download_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/images/logo_mini.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/images/white50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/js/ScrollBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/js/magmi_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_cancel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_chooseprofile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_config_setup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_import_run.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_profile_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_profile_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_progress.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_run.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_saveconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_saveprofile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_utilities.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/magmi_web_utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/plugin_upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/progress_details.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/progress_parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/web/trace_details.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/customer/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/dhl/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/js/1befc3dfc592d74dfc5a94c686af1699.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/js/d26fcd230360906bdaee60ea02abaf09.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/js/d738472e15ceb64af770b139f293c5a3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/js/dd79b6789cc7bab964e31cf3f66d7846.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/js/e588ffc28946904261d9dca0783ea3f8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/js/f1ce4867310053f809abbbbdd2fd0372.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/xmlconnect/custom/ok.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/xmlconnect/original/ok.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/xmlconnect/system/ok.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-blinkbits-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-blinklist-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-blogmarks-net.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-bookmarks-yahoo-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-corank-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-del-icio-us.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-digg-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-faves-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-favorites-live-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-favorites-my-aol-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-furl-net.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-google-com-bookmarks.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-ideas-mailtrust-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-indianpad-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-lipstick-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-ma-gnolia-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-megite-com-discover-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-multiply-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-myjeeves-ask-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-myweb2-search-yahoo-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-netvouz-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-newsvine-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-propeller-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-reddit-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-simpy-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-slashdot-org-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-sphinn-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-squidoo-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-stumbleupon-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-swik-net-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-technorati-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-twitter-com.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-wists-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-citeulike-org-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-dealigg-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-diglog-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-dzone-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-facebook-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-fark-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-killerstartups-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-mister-wong-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-mixx-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-myspace-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-shoutwire-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/communityIcons/http-www-thisnext-com-.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/aw_blog/images/icon_blog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/_css/_design_default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/_css/_grid_default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/_css/_layout_default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/default.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/_shared/colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/_shared/generic-cck.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/_shared/generic-nav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/_shared/itemslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/brands/brands.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/cloud-zoom/cloud-zoom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/infortis/ultra-slideshow/ultra-slideshow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/menu-classic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/menu-wide.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/skin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/styles-ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/styles-ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/styles-ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/bkg_collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/bkg_divider1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/bkg_pipe1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/bkg_pipe3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/btn_google_checkout.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/btn_paypal_checkout.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/email-header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/fam_book_open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/flags/de.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/flags/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/flags/default_de.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/flags/en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/flags/fr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/flags/it.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_availability_only_arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_folder-table.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_ma-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_ma-reviews.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_ma-tags.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_msg-error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_msg-note.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_msg-success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_notice.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_page2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_print.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_rss-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_rss.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/i_tag_add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/arrow-dropdown-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/arrow-dropdown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/arrow-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/bg-separator1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/checkout-progress-done.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/checkout-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/empty-catalog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/ic-account.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/ic-checkout-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/ic-order-comment.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/ic-order-item.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/ic-phone-gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/link-separator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/link-separator2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/magnifier.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/main2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/pix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/rating-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/rating-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/rating-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/rating-yellow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/img/rating.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/bullet-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/list1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/list11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/list12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/list13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/cck/list/list2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/close-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/colorbox/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/colorbox/loading_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/colorbox/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/pager-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/pager.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/slider-arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/_shared/slideshow-arrows-solid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/infortis/super-slideshow/slideshow-arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/opc-ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/ultimo/default/images/spacer.gif" afterPath="" />
+    </list>
+    <ignored path="Coffeesh0p.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372356813583" ignored="false" />
+    <file path="/.gitignore" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372359180863" ignored="false" />
+    <file path="$PROJECT_DIR$/magmi/web/magmi_utilities.php" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372357491652" ignored="false" />
+    <file path="$PROJECT_DIR$/magmi/cli/magmi.cli.php" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372357491652" ignored="false" />
+    <file path="$PROJECT_DIR$/magmi/plugins/extra/general/remoteagent/008_magmi_remoteagent_plugin.php" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372357491652" ignored="false" />
+    <file path="$PROJECT_DIR$/magmi/integration/inc/magmi_datapump.php" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372357491652" ignored="false" />
+    <file path="$PROJECT_DIR$/magmi/web/header.php" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372357491652" ignored="false" />
+    <file path="$PROJECT_DIR$/magmi/web/magmi_profile_config.php" changelist="c7f657d1-f860-478f-ae3d-937e21fecc95" time="1372357491652" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Coffeesh0p" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="22" />
+    <option name="width" value="1273" />
+    <option name="height" value="1330" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coffeesh0p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coffeesh0p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coffeesh0p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Coffeesh0p">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="ec7a035b-1ec0-4343-b77e-9f4a1233e615">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/code/community" />
+      <recent name="$PROJECT_DIR$/app/code" />
+      <recent name="$PROJECT_DIR$/skin/frontend" />
+      <recent name="$PROJECT_DIR$/skin/adminhtml/default/default" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7f657d1-f860-478f-ae3d-937e21fecc95" name="Default" comment="" />
+      <created>1372356800120</created>
+      <updated>1372356800120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="22" width="1273" height="1330" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/spudge/mage-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="24" selection-start="978" selection-end="978" vertical-scroll-proportion="0.43219596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="806" selection-end="806" vertical-scroll-proportion="0.21368243">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

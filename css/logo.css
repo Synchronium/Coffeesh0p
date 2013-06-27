@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+background: url(http://img.coffeesh0p.com/logo/bg.png) 0 0 repeat scroll; /* fallback */
+background: -moz-radial-gradient(center 45deg, circle closest-side, #fff 0%, rgba(255,255,255,0) 100%) 50% 50% no-repeat scroll,
+									url(http://img.coffeesh0p.com/logo/Coffeesh0p.png) 50% 550px no-repeat scroll,
+									url(http://img.coffeesh0p.com/logo/bg.png) 0 0 repeat scroll;
+
+background: -webkit-radial-gradient(circle, rgb(255, 255, 255),rgba(255, 255, 255, 0)) 50% 50% no-repeat scroll,
+									url(http://img.coffeesh0p.com/logo/Coffeesh0p.png) 50% 550px no-repeat scroll,
+									url(http://img.coffeesh0p.com/logo/bg.png) 0 0 repeat scroll;
+}
+body {
+	color: #ccc;
+	font-family: Helvetica Neue, Verdana, sans-serif;
+	font-size: 20px;
+}
+
+p {
+	line-height: 1.5em;
+	list-style: none;
+}
+p a, p a:visited {
+	color: #56bff6;
+	text-decoration: none;
+}
+
+	p a:hover {
+		border-bottom: 1px solid #56bff6;
+	}
+
+canvas, section {
+	display: block;
+
+}
+
+#c {
+	position: absolute;
+}
+
+#attribution {
+	bottom: 40px;
+	position: absolute;
+	right: 40px;
+}

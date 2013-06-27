@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config>
-    <tabs>
-        <all translate="label" module="coffeesh0p_all">
-            <label>Coffeesh0p Modules</label>
-            <sort_order>1</sort_order>
-        </all>
-    </tabs>
-</config>

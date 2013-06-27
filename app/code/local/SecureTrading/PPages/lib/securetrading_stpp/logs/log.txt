@@ -1,1 +1,0 @@
-26th Jun 2013 - 00:00:38 UTC - 2 - SCART - Line 0370 - 00000: The "url" parameter has not been returned to the redirect script.
