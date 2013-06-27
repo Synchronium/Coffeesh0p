@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <SecureTrading_PPages>
+            <version>2.5.x</version>          
+        </SecureTrading_PPages>
+    </modules>
+	
+    <global>
+		<!-- Register helpers -->
+		<helpers>
+			<PPages>
+				<class>SecureTrading_PPages_Helper</class>
+			</PPages>
+		</helpers>
+		
+		<!-- Register models -->
+		<models>
+			
+			<PPages>
+				<class>SecureTrading_PPages_Model</class>
+			</PPages>
+			
+			<!-- Overridden multishipping model -->
+			<checkout>
+				<rewrite>
+					<type_multishipping>SecureTrading_PPages_Model_Type_Multishipping</type_multishipping> 
+				</rewrite>
+			</checkout>
+		</models>
+		
+		<!-- Register blocks -->
+		<blocks>
+            <PPages><class>SecureTrading_PPages_Block</class></PPages>
+		</blocks>
+		
+		<!-- Rewrite admin/sales_order_create/save controller to use our own implementation. -->
+		<rewrite>
+			<unique_ppages_text_here_can_be_anything>
+				<from><![CDATA[#^/admin/sales_order_create/save#]]></from>
+				<to>securetradingppages/create/save</to>
+			</unique_ppages_text_here_can_be_anything>
+		</rewrite>
+	</global>
+	
+	<!-- Controllers -->
+	<frontend>      
+        <routers>
+			<!-- Create standard controller -->
+            <ppages>
+                <use>standard</use>
+                <args>
+                    <module>SecureTrading_PPages</module>
+                    <frontName>securetrading</frontName>
+                </args>
+            </ppages>
+			
+			<!-- Overridde core multishipping controller -->
+			<checkout>
+				<args>
+					<modules>
+						<SecureTrading_PPages before="Mage_Checkout">SecureTrading_PPages</SecureTrading_PPages>
+					</modules>
+				</args>
+			</checkout>
+        </routers>
+	</frontend>
+	
+	<admin>      
+		<routers>
+		<!-- Create admin controller -->
+			<unique_text_admin_router_ppages>
+				<use>admin</use>
+                <args>
+                    <module>SecureTrading_PPages</module>
+                    <frontName>securetradingppages</frontName>
+                </args>
+            </unique_text_admin_router_ppages>
+        </routers>
+    </admin>
+	
+	<!-- Set default config values -->
+	<default>
+         <payment>
+             <PPages_standard>
+                  <model>PPages/standard</model>
+                  <title>SecureTrading Payment Pages</title>
+				  <sort_order>1</sort_order>
+				  <payment_action>AUTH_CAPTURE</payment_action>
+                  <allowspecific>0</allowspecific> <!-- All allowed countries -->
+            </PPages_standard>
+        </payment>
+    </default>
+</config>

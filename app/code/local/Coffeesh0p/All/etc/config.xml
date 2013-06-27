@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Coffeesh0p_All>
+            <version>0.1.0</version>
+        </Coffeesh0p_All>
+    </modules>
+    <global>
+        <blocks>
+            <coffeesh0p_all>
+                <class>Coffeesh0p_All_Block</class>
+            </coffeesh0p_all>
+        </blocks>
+        <helpers>
+            <coffeesh0p_all>
+                <class>Coffeesh0p_All_Helper</class>
+            </coffeesh0p_all>
+        </helpers>
+    </global>
+</config>

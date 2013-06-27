@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Coffeesh0p_Catalog>
+            <version>0.1.1</version>
+        </Coffeesh0p_Catalog>
+    </modules>
+
+    <global>
+        <blocks>
+            <coffeesh0p_catalog>
+                <class>Coffeesh0p_Catalog_Block</class>
+            </coffeesh0p_catalog>
+            <catalog>
+                <rewrite>
+                    <navigation>Coffeesh0p_Catalog_Block_Navigation</navigation>
+                </rewrite>
+            </catalog>
+        </blocks>
+        <resources>
+            <coffeesh0p_catalog_setup>
+                <setup>
+                    <module>Coffeesh0p_Catalog</module>
+                    <class>Mage_Catalog_Model_Resource_Eav_Mysql4_Setup</class>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </coffeesh0p_catalog_setup>
+            <coffeesh0p_catalog_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </coffeesh0p_catalog_read>
+            <coffeesh0p_catalog_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </coffeesh0p_catalog_write>
+        </resources>
+    </global>
+
+</config>
