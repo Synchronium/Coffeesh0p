@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <SecureTrading_PPages>
+            <active>true</active>
+            <codePool>local</codePool>
+        </SecureTrading_PPages>
+    </modules>
+</config>
