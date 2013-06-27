@@ -53,6 +53,7 @@ lib/Zend/
 LICENSE_AFL.txt
 LICENSE.html
 LICENSE.txt
+media/*
 media/downloadable/
 media/import/
 media/css
