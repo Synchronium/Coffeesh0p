@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Coffeesh0p_Payment>
+            <version>0.1.0</version>
+        </Coffeesh0p_Payment>
+    </modules>
+    <global>
+        <models>
+            <coffeesh0p_payment>
+                <class>Coffeesh0p_Payment_Model</class>
+            </coffeesh0p_payment>
+        </models>
+        <blocks>
+            <coffeesh0p_payment>
+                <class>Coffeesh0p_Payment_Block</class>
+            </coffeesh0p_payment>
+        </blocks>
+        <helpers>
+            <coffeesh0p_payment>
+                <class>Coffeesh0p_Payment_Helper</class>
+            </coffeesh0p_payment>
+        </helpers>
+    </global>
+    <default>
+        <payment>
+            <custom_one>
+                <active>0</active>
+                <model>coffeesh0p_payment/method_custom_one</model>
+                <order_status>pending</order_status>
+                <title>Custom Payment Method 1</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </custom_one>
+            <custom_two>
+                <active>0</active>
+                <model>coffeesh0p_payment/method_custom_two</model>
+                <order_status>pending</order_status>
+                <title>Custom Payment Method 2</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </custom_two>
+            <custom_three>
+                <active>0</active>
+                <model>coffeesh0p_payment/method_custom_three</model>
+                <order_status>pending</order_status>
+                <title>Custom Payment Method 3</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </custom_three>
+            <custom_four>
+                <active>0</active>
+                <model>coffeesh0p_payment/method_custom_four</model>
+                <order_status>pending</order_status>
+                <title>Custom Payment Method 4</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </custom_four>
+            <custom_five>
+                <active>0</active>
+                <model>coffeesh0p_payment/method_custom_five</model>
+                <order_status>pending</order_status>
+                <title>Custom Payment Method 5</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </custom_five>
+        </payment>
+    </default>
+</config>

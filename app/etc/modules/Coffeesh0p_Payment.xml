@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Coffeesh0p_Payment>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Coffeesh0p_All/>
+                <Mage_Payment/>
+
+            </depends>
+        </Coffeesh0p_Payment>
+    </modules>
+</config>
